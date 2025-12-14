@@ -1,10 +1,10 @@
-Línia 1: Comença el projecte amb la introducció A.
-Línia 2: Afegim context específic de la persona A.
+Línia 1: Text A
+Línia 2: Text A
 Línia 3: Aquesta línia és la mateixa en els dos fitxers.
-Línia 4: Aquí descrivim el mètode que utilitzem A.
-Línia 5: Alguns exemples concrets de la funció A.
-Línia 6: Explicació addicional única A.
+Línia 4: Text A
+Línia 5: Text A
+Línia 6: ---
 Línia 7: Aquesta línia és la mateixa en els dos fitxers.
-Línia 8: Conclusió parcial segons la persona A.
-Línia 9: Notes finals específiques A.
-Línia 10: Fi del text de la feature A.
+Línia 8: Text A
+Línia 9: Text A
+Línia 10: Text A
