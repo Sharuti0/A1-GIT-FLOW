@@ -1,0 +1,10 @@
+Línia 1: Text Fatima 1
+Línia 2: Text Fatima 2
+Línia 3: Aquesta línia és la mateixa en els dos fitxers.
+Línia 4: Text Fatima 4
+Línia 5: Text Fatima 5
+Línia 6: Text Fatima 6
+Línia 7: Aquesta línia és la mateixa en els dos fitxers.
+Línia 8: Text Fatima 8
+Línia 9: Text Fatima 9
+Línia 10: Text Fatima 10
