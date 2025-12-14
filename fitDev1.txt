@@ -1,10 +1,10 @@
 Línia 1: Text B
 Línia 2: Text B
 Línia 3: Aquesta línia és la mateixa en els dos fitxers.
-Línia 4: Text B
-Línia 5: Text B
+Línia 4: Text A
+Línia 5: Text A
 Línia 6: ---
 Línia 7: Aquesta línia és la mateixa en els dos fitxers.
-Línia 8: Text B
+Línia 8: Text A
 Línia 9: Text B
-Línia 10: Text B
+Línia 10: Text A
